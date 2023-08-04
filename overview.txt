@@ -1,0 +1,29 @@
+The three parts of the MVC software-design pattern can be described as follows:
+
+Model: Manages data and business logic.
+View: Handles layout and display.
+Controller: Routes commands to the model and view parts.
+
+**********************************
+
+Thread-Code in Execution
+Multi Threading-Two programs working/running parallel to each other.
+
+**********************************
+
+Network Calls-->> made through bits 
+
+*********************************
+
+DOM --> document object model
+
+Sync->> code that runs one by one,
+jabh pehli line chalegi tabhi new line pe jaega
+like if a website is loading then website wont work until and unless it loads fully which is a wrong practice .
+
+Async -->> non-blocking code, basically ek code chal rha hai, simultaneously apna doosra code bhi chalega...
+#node.js is Async
+
+ASYNC -->PROMISE-->|- 1) PENDING
+                   |- 2)FULFILLED-- success
+                   |- 3)REJECTED -- failed
